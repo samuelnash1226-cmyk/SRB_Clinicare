@@ -1,2 +1,11 @@
-# SRB_Clinicare
-SRB Clinicare is a group project created by three promising web developers and intend to help the school's clinic better management by providing a system built for managing and facilitating such history of clinic visits.
+
+  # Design SRB ClinicCare UI
+
+  This is a code bundle for Design SRB ClinicCare UI. The original project is available at https://www.figma.com/design/UlG8Lm8a8i3RCSAYCuvVmT/Design-SRB-ClinicCare-UI.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
